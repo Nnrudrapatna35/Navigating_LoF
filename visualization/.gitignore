@@ -36,3 +36,6 @@
 
 # Output files
 output/
+
+# Other
+.DS_Store
