@@ -29,7 +29,7 @@ The results are visualized via [MATLAB](https://www.mathworks.com/products/matla
 The MATLAB code requires the file [arrow.m](https://www.mathworks.com/matlabcentral/fileexchange/278-arrow) available via the MATLAB File Exchange.
 
 ### Data
-The data for our example based on foraging Samango monkeys can be found in the is primarily based on Figure 1 from ["Living in a landscape of fear: the impact of predation, resource availability and habitat structure on primate range use"](https://doi.org/10.1016/j.anbehav.2013.11.027) by Ben T. Coleman and Russell A. Hill. Our data was generated via the file [imread.m](https://github.com/eikonal-equation/Navigating_LoF/blob/main/visualization/imread/imread.m)  and can be found in the `visualization/imread` directory. 
+The data for our example based on foraging Samango monkeys can be found in the is primarily based on Figure 1 from ["Living in a landscape of fear: the impact of predation, resource availability and habitat structure on primate range use"](https://doi.org/10.1016/j.anbehav.2013.11.027) by Ben T. Coleman and Russell A. Hill. Our data was generated via the file [ImageRead.m](https://github.com/eikonal-equation/Navigating_LoF/blob/main/visualization/imread/ImageRead.m)  and can be found in the `visualization/imread` directory. 
 
 ## Running the Code
 Assuming the libraries are appropriately linked, you should be able to compile the code and run the test cases from the manuscript.
