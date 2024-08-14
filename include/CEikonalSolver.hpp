@@ -1,6 +1,7 @@
 /*
 * ==============================================================================
-*
+*  Copyright (C) 2024 Marissa Gee Nicolas Gonzalez Granda Sunay Joshi 
+*                     Nagaprasad Rudrapatna Anne Somalwar 
 *  Copyright (C) 2021 Marissa Gee
 *
 *  This program is free software: you can redistribute it and/or modify

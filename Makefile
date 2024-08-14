@@ -4,7 +4,6 @@ BOOSTPATH = ../lib/boost_1_74_0/ # customize to local boost installation
 INCLUDE = -isystem $(BOOSTPATH) -I ./include/
 LIB = -L $(BOOSTPATH)
 SRC = ./src/
-TEST =
 
 CPPFILES = $(SRC)main.cpp \
 					 $(SRC)CTimeDependentHjbSolver.cpp\

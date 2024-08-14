@@ -1,6 +1,8 @@
 /*
 * ==============================================================================
 *
+*  Copyright (C) 2024 Marissa Gee Nicolas Gonzalez Granda Sunay Joshi 
+*                     Nagaprasad Rudrapatna Anne Somalwar 
 *  Copyright (C) 2019  Marc Aurèle Gilles
 *  Copyright (C) 2019  Elliot Cartee, Qianli Song, Lexiao Lai
 *
@@ -20,9 +22,10 @@
 * ------------------------------------------------------------------------------
 * File: CTimeDependentTracer.hpp
 *
-* Authors: REU 2022 Landscape of Fear Group
-*   (based on code by Elliot Cartee, Qianli Song, Lexiao Lai)
-*     (based on code by Marc Aurèle Gilles and Zachary Clawson)
+* Authors: Marissa Gee Nicolas Gonzalez Granda Sunay Joshi 
+*          Nagaprasad Rudrapatna Anne Somalwar 
+*          (based on code by Elliot Cartee, Qianli Song, Lexiao Lai)
+*             (based on code by Marc Aurèle Gilles and Zachary Clawson)
 *
 * Description: This is the trajectory tracer class for time-dependent problems.
 * Given the solution to the time-dependent HJB equation, this class computes the

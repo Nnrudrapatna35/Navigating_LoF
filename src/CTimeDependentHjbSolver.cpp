@@ -2,7 +2,7 @@
 * ==============================================================================
 *
 *  Copyright (C) 2024 Marissa Gee Nicolas Gonzalez Granda Sunay Joshi 
-                      Nagaprasad Rudrapatna Anne Somalwar 
+*                     Nagaprasad Rudrapatna Anne Somalwar 
 *
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
@@ -20,9 +20,10 @@
 * ------------------------------------------------------------------------------
 * File: CTimeDependentHjbSolver.cpp
 *
-* Authors: REU 2022 Landscape of Fear Group
-*   (based on code by Elliot Cartee, Qianli Song, Lexiao Lai)
-*     (based on code by Marc Aurèle Gilles and Zachary Clawson)
+* Authors: Marissa Gee Nicolas Gonzalez Granda Sunay Joshi 
+*          Nagaprasad Rudrapatna Anne Somalwar 
+*          (based on code by Elliot Cartee, Qianli Song, Lexiao Lai)
+*             (based on code by Marc Aurèle Gilles and Zachary Clawson)
 *
 * Description: This class is for solving the time-dependent HJB equation.
 * It assumes that fGrid contains the speed and cost functions.

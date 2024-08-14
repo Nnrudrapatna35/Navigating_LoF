@@ -1,6 +1,7 @@
 /*
 * ==============================================================================
-*
+*  Copyright (C) 2024 Marissa Gee Nicolas Gonzalez Granda Sunay Joshi 
+*                     Nagaprasad Rudrapatna Anne Somalwar 
 *  Copyright (C) 2019  Marc Aurèle Gilles
 *  Copyright (C) 2019  Elliot Cartee, Qianli Song, Lexiao Lai
 *
@@ -20,8 +21,10 @@
 * ------------------------------------------------------------------------------
 * File: GlobalConfigurations.hpp
 *
-* Authors: Elliot Cartee, Qianli Song, Lexiao Lai
-*   (based on code by Marc Aurèle Gilles and Zachary Clawson)
+* Authors: Marissa Gee Nicolas Gonzalez Granda Sunay Joshi 
+*          Nagaprasad Rudrapatna Anne Somalwar 
+*          (based on code by Elliot Cartee, Qianli Song, Lexiao Lai)
+*             (based on code by Marc Aurèle Gilles and Zachary Clawson)
 *
 * Description: This file contains the definitions of various numerical constants
 * and types. It also contains all global parameters for all of the numerics.

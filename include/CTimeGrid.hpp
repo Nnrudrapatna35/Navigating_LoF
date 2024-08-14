@@ -1,6 +1,7 @@
 /*
 * ==============================================================================
-*
+*  Copyright (C) 2024 Marissa Gee Nicolas Gonzalez Granda Sunay Joshi 
+*                     Nagaprasad Rudrapatna Anne Somalwar 
 *  Copyright (C) 2019  Marc Aurèle Gilles
 *  Copyright (C) 2019  Elliot Cartee, Qianli Song, Lexiao Lai
 *
@@ -20,9 +21,10 @@
 * ------------------------------------------------------------------------------
 * File: CTimeGrid.hpp
 *
-* Authors: REU 2022 Landscape of Fear Group
-*   (based on code by Elliot Cartee, Qianli Song, Lexiao Lai)
-*     (based on code by Marc Aurèle Gilles and Zachary Clawson)
+* Authors: Marissa Gee Nicolas Gonzalez Granda Sunay Joshi 
+*          Nagaprasad Rudrapatna Anne Somalwar 
+*          (based on code by Elliot Cartee, Qianli Song, Lexiao Lai)
+*             (based on code by Marc Aurèle Gilles and Zachary Clawson)
 *
 * Description: This class is used to handle both the logical and physical
 * representation of a 3D regular grid with fixed spacing in all 3 dimensions.
