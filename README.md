@@ -66,13 +66,16 @@ For example, to generate the data needed for Figure 3, run the following four co
 `./main ExampleRiskReward M 9`
 `./main ExampleRiskReward U 9`
 
+Some commands will trigger prompts to specify quantities such as whether to include predator interactions, whether to include food depletion, and how many realized trajectories to generate. When the instructions for generating data below include information beyond the initial command, it is entered via these prompts.
+
 ### To generate the data:
-- Figures 2, 3 -  Run ExampleRiskReward and ExampleRiskRewardPT with L, R, M, and U 
-- Figure 4 - Run ExampleRiskRewardPT with one realization,  with and without food depletion, for L, R, M
-- Figures 5, 6 - Run ExampleRealWorld with L, R, and M, then run with path tracing for 1000 trajectories, no food depletion, allowing mode switches, unspecified initial energy, and many starting locations
-- Figures 7, 8 - Run ExampleRealWorld with path tracing, 1 realization, no food depletion, no mode switches, unspecified initial energy, once without specified switch times, 3 times with at 0, 0.5 , and 1.0
-- Figures 9, S2 - S4 - Run ExampleMultistage for L, R, and M
-- Figure S1 - Run ExampleRiskRewardPT for L, R, and M with 100 realizations, with and without food depletion
+All examples were run with the 9 point stencil option.
+- Figures 2, 3 -  Run ExampleRiskReward for L, R, M, and U.
+- Figure 4 - Run ExampleRiskRewardPT for L, R, and M. Specify one realization, and run each with and without food depletion.
+- Figures 5, 6 - Run ExampleRealWorld for L, R, and M. Run with path tracing and specify starting mode 1, no food depletion, allow mode switches, no specified initial energy, 1000 realizations, and many starting locations via prompts.
+- Figures 7, 8 - Run ExampleRealWorld for L, R, and M with path tracing. Specify starting mode 1, no food depletion, no mode switches, unspecified initial energy, no specified spotting times. Then run three more times with the same settings but with specified spotting times at 0, 0.5, and 1.0.
+- Figures 9, S2 - S4 - Run ExampleMultistage for L, R, and M.
+- Figure S1 - Run ExampleRiskRewardPT for L, R, and M. Specify 100 realizations, and run each with and without food depletion.
 
 ## Visualizing Output
 Code for generating the figures in the manuscript can be found in the [visualization](https://github.com/eikonal-equation/Navigating_LoF/blob/main/visualization) directory. Each file first calls [initialization.m](https://github.com/eikonal-equation/Navigating_LoF/blob/main/visualization/initialization.m), which specifies the example and utility function to be visualized. The code assumes that all data was generated using the 9-point stencil.
