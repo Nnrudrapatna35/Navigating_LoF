@@ -4,7 +4,7 @@ This program is free software: you can redistribute it and/or modify it under th
 You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
 
 # Manuscript
-The primary purpose in distributing this source code is to enable readers to reproduce the numerical results reported in the manuscript "Navigating the Landscape of Fear" [preprint forthcoming] by Marissa Gee, Nicolas Gonzalez-Granda, Sunay Joshi, Nagaprasad Rundrapatna, Anne Somalwar, Stephen P. Ellner, and Alexander Vladimirsky.
+The primary purpose in distributing this source code is to enable readers to reproduce the numerical results reported in the manuscript "Navigating the Landscape of Fear" [preprint forthcoming] by Marissa Gee, Nicolas Gonzalez-Granda, Sunay Joshi, Nagaprasad Rudrapatna, Anne Somalwar, Stephen P. Ellner, and Alexander Vladimirsky.
 
 
 # Contributions
